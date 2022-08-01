@@ -1,2 +1,3 @@
-#Demo Repo
-This is the firat repo
+# Demo Repo
+
+This is the first repo
